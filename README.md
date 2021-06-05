@@ -3,7 +3,7 @@
 ## I'm a Data Scientist and Photographer 😄
 
 - I majored in Econometrics and i have three years of experience in building timeseries/machine learning solutionsam in IBM Finance
-- As a data scientist, i am discovering the information hidden in vast amounts of data, and help end-users to make smarter decisions. 
+- As a data scientist, i am discovering the hidden information from vast amounts of data, helping end-users to make smarter decisions. 
 - I am interested in deploying statistical models in variety of business environment 
 - I create my own projects using Python/R to enhance both my data preprocessing and modelling skills. Please share your thought 😄
 - On my channel, you can share me your thoughts on your latest Machine Learning skills to improve my coding 
