@@ -6,7 +6,7 @@
 - As a data scientist, i am discovering the hidden information from vast amounts of data, helping end-users to make smarter decisions. 
 - I am interested in deploying statistical models in variety of business environment 
 - I create my own projects using Python/R to enhance both my data preprocessing and modelling skills. Please share your thought 😄
-- On my channel, you can share me your thoughts on your latest Machine Learning skills to improve my coding 
+- On my blog[blog], you can share me your thoughts on your latest Machine Learning skills to improve my coding 
 - I post my videos in [Youtube] to share my learning with people in the world who has same interest as me
 - I also post my pictures on my [Instagram][instagram]
 
@@ -20,5 +20,6 @@ Yes, i just started Github and i hope to learn more about data scinence and shar
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinmun-Park&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[blog]:https://jinmunpark.netlify.app/
 [website]: https://github.com/Jinmun-Park
 [instagram]: https://www.instagram.com/jvstudio_xy/
