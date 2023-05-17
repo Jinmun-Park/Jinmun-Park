@@ -12,13 +12,13 @@
 ## My Github Languages
 I am planning to use more python in my personal projects. Lets study together ! 🍺
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinmun-Park&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jinmun-Park&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My GitHub Stats 
 Yes, i just started Github and i hope to learn more about data scinence and share it with people in online.
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinmun-Park&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jinmun-Park&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [blog]:https://jinmunpark.netlify.app/
 [project_website]:https://ourdatapark.com/
