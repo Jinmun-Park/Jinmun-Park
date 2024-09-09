@@ -1,13 +1,11 @@
 # [Hi, I'm Jinmun!][website]
 
-## I'm an AI Engineer specializing in predictive modeling and NLP solutions 🚀
+## I'm an AI Engineer and a Day Dreamer 🚀
 
 - With a background in Econometrics, I have 5 years of experience developing machine learning and language model.
 - I led the development of AI chatbots leveraging NLP techniques and RAG to enhance chatbot accuracy and user engagement.
 - Visit my [blog] for insights on my latest AI projects, and let’s exchange ideas to enhance our skills together.
-- I actively work on personal projects using Python to sharpen my skills in data preprocessing, machine learning, and AI development. 
 - Feel free to share your feedback and thoughts! 🧠
-
 
 ## My GitHub Languages
 I primarily use Python for my AI and machine learning projects. Let’s collaborate and learn together! 📈
