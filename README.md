@@ -3,7 +3,7 @@
 ## I'm an AI Engineer and a Day Dreamer 🚀
 
 - With a background in Econometrics, I have 5 years of experience developing machine learning and language model.
-- I led the development of AI chatbots leveraging NLP techniques and RAG to enhance chatbot accuracy and user engagement.
+- I led the development of AI chatbots leveraging NLP techniques and RAG to enhance chatbot accuracy.
 - Visit my [blog] for insights on my latest AI projects, and let’s exchange ideas to enhance our skills together.
 - Feel free to share your feedback and thoughts! 🧠
 
