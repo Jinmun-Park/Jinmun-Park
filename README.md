@@ -1,26 +1,17 @@
-# [Hi I'm Jinmun!][website]
+# [Hi, I'm Jinmun!][website]
 
-## I'm a Data Scientist and Photographer 😄
+## I'm an AI Engineer specializing in predictive modeling and NLP solutions 🚀
 
-- I majored in Econometrics and i have three years of experience in building timeseries/machine learning solutions in IBM Finance
-- As a data scientist, i am discovering the hidden information from vast amounts of data, helping end-users to make smarter decisions. 
-- I create my own projects using Python to enhance both my data preprocessing and modelling skills. Please share your thought 😄
-- On my [blog] and [project_website], you can share me your thoughts on your latest Machine Learning skills to improve my coding 
-- I post my videos in [Youtube] to share my findings with people who have the same interest.
-- I also post my pictures on my [Instagram][instagram]
+- With a background in Econometrics, I have 5 years of experience developing machine learning and language model.
+- I led the development of AI chatbots leveraging NLP techniques and RAG to enhance chatbot accuracy and user engagement.
+- I actively work on personal projects using Python to sharpen my skills in data preprocessing, machine learning, and AI development. Feel free to share your feedback and thoughts! 🧠
 
-## My Github Languages
-I am planning to use more python in my personal projects. Lets study together ! 🍺
+## My GitHub Languages
+I primarily use Python for my AI and machine learning projects. Let’s collaborate and learn together! 📈
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jinmun-Park&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## My GitHub Stats 
-Yes, i just started Github and i hope to learn more about data scinence and share it with people in online.
+I'm excited to share my journey in AI and NLP here on GitHub and to learn from the community!
 
 [![Catalin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jinmun-Park&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[blog]:https://jinmunpark.netlify.app/
-[project_website]:https://ourdatapark.com/
-[website]: https://github.com/Jinmun-Park
-[instagram]: https://www.instagram.com/jvstudio_xy/
