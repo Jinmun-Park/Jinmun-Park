@@ -4,7 +4,10 @@
 
 - With a background in Econometrics, I have 5 years of experience developing machine learning and language model.
 - I led the development of AI chatbots leveraging NLP techniques and RAG to enhance chatbot accuracy and user engagement.
-- I actively work on personal projects using Python to sharpen my skills in data preprocessing, machine learning, and AI development. Feel free to share your feedback and thoughts! 🧠
+- Visit my [blog] for insights on my latest AI projects, and let’s exchange ideas to enhance our skills together.
+- I actively work on personal projects using Python to sharpen my skills in data preprocessing, machine learning, and AI development. 
+- Feel free to share your feedback and thoughts! 🧠
+
 
 ## My GitHub Languages
 I primarily use Python for my AI and machine learning projects. Let’s collaborate and learn together! 📈
@@ -15,3 +18,6 @@ I primarily use Python for my AI and machine learning projects. Let’s collabor
 I'm excited to share my journey in AI and NLP here on GitHub and to learn from the community!
 
 [![Catalin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jinmun-Park&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[blog]: https://jinmunpark.netlify.app/
+[website]: https://github.com/Jinmun-Park
